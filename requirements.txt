@@ -1,4 +1,5 @@
 h5py
 h5json
+pyproj==1.9.6
 matplotlib
 https://github.com/matplotlib/basemap/archive/master.zip
